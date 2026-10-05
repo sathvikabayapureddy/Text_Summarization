@@ -1,0 +1,5 @@
+venv/
+textsumm3119/
+__pycache__/
+*.pyc
+.env
